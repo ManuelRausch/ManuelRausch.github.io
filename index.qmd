@@ -1,0 +1,44 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - text: "{{< iconify academicons google-scholar-square >}} google scholar"
+      href: https://scholar.google.de/citations?user=QFdVCFEAAAAJ&hl=de
+    - icon: github
+      text: Github
+      href: https://github.com/manuelrausch
+    - text: "{{< iconify arcticons bluesky >}} BlueSkye"
+      href: https://bsky.app/profile/manurausch.bsky.social/
+    - text: "{{< iconify academicons researchgate-square >}} researchgate"
+      href: https://www.researchgate.net/profile/Manuel-Rausch-2  
+    - text: "{{< iconify fa6-brands orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-5805-5544 
+    - icon: envelope
+      text: Email
+      href: mailto:manuel.rausch@hochschule-rhein-waal.de"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to Manuel Rausch's website!
+
+I am a post-doctorial researcher in Psychology and Cognitive Neuroscience based at the [Rhine-Waal University of Applied Sciences](https://www.hochschule-rhein-waal.de/en). My research interests include
+
+* Metacognition 
+* Cognitive modeling
+* Mathematical modeling of behaviour
+* Perceptual decision making
+* Confidence in perceptual decision making
+* Visual awareness
+* Machine learning and Psychology
+
+I signed the [commitment to research transparency and open science](http://www.researchtransparency.org). 
+
+![ ](img/rt_logo_very_wide.png)
+
+Please feel free to [contact me](mailto:manuel.rausch@hochschule-rhein-waal.de) if you have any questions or would like to discuss potential projects.
+
+

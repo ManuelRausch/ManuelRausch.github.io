@@ -1,0 +1,45 @@
+---
+title: Teaching
+---
+
+## Courses
+
+#### Rhine-Waal University of Applied Sciences
+
+| Course title | Course level | Course type | language |
+|---------|:-----|------:|:------:|
+| Behavioral Economics | M. Sc. |  lecture | English |
+| Behavioral Finance | M. Sc. | lecture | English |
+
+
+#### Catholic University of Eichstädt-Ingolstadt
+
+| Course title | Course level | Course type | language |
+|---------|:-----|------:|:------:|
+| General Psychology | B. Sc. | lecture | German |
+| General Psychology | B. Sc. | seminar | German |
+| Introduction into Empirical Psychology | B. Sc. | seminar | German |
+| Current research issues | B. Sc. | seminar | German |
+| Research project | M. Sc. | seminar | German 
+
+#### Ludwig-Maximilians-Universität München
+
+| Course title | Course level | Course type | language |
+|---------|:-----|------:|:------:|
+| Introduction into Statistics | B. Sc. | lecture | German |
+| Scientific Practice | B. Sc. | seminar | German |
+| Interdisciplinary communication of research findings | M. Sc. | seminar | German |
+| Cognitive modelling in R | M. Sc. | seminar | German |
+| Reaction time and psychophysical methods | M. Sc. | tutorial | German |
+
+## Supervision
+
+* 2 PhD students
+* 25 Master theses
+* 10 Bachelor theses
+* 7 thesis for the state examination for beginning teachers 
+
+## Teaching evaluation
+* 16 evaluated courses at the Catholic University of Eichstädt-Ingostadt
+* Average evaluation of courses by students: 1.5 (on a scale from 1 “best” to 5 “worst”)
+

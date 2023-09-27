@@ -1,0 +1,89 @@
+# This file controls the settings for your Quarto template from www.marvinschmitt.com
+
+# website settings
+website:
+  title: "Dr. Manuel Rausch"                                # Your name
+  description: "Psychologist and Cognitive Neuroscientist at Rhein-Waal University!"   # A brief slogan (optional)
+  image: img/my_image.jpg
+  #favicon: img/favicon.png
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    #logo: /img/logo.png
+    
+    # your sub-pages
+    left:
+       - text: "CV"
+         href: cv/index.qmd
+       - text: "Projects"
+         href: projects/index.qmd
+       - text: "Publications"
+         href: publications/index.qmd
+       - text: "R packages"
+         href: R packages/index.qmd 
+       - text: "Teaching"
+         href: teaching/index.qmd 
+
+    # your social media handles
+    right:
+      - text: "{{< iconify academicons google-scholar-square >}}"
+        href: https://scholar.google.de/citations?user=QFdVCFEAAAAJ&hl=de
+        target: _blank
+      - icon: github
+        href: https://github.com/manuelrausch
+        target: _blank
+      - text: "{{< iconify arcticons bluesky >}}"
+        href: https://bsky.app/profile/manurausch.bsky.social/
+        target: _blank
+      - text: "{{< iconify academicons researchgate-square >}}"
+        href: https://www.researchgate.net/profile/Manuel-Rausch-2
+        target: _blank
+      - text: "{{< iconify fa6-brands orcid >}}"
+        href: "https://orcid.org/0000-0002-5805-5544" 
+      - icon: envelope
+        aria-label: email
+        href: "mailto:manuel.rausch@hochschule-rhein-waal.de"
+        target: _blank
+  
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    left: |
+      <span class="faux-block">&#169; 2023 Manuel Rausch CC BY-SA 4.0</span> 
+    center: |  
+      <span class="faux-block"><a href="/imprint/index.html">Impressum</a></span>
+    right: |
+      <span class="faux-block"> Many thanks to <a href="https://www.marvinschmitt.com">
+      Marvin Schmitt</a> for his <a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">
+      Tutorial</a> how to use <a href="https://quarto.org/">Quarto</a></span>
+    
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

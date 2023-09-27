@@ -1,0 +1,41 @@
+---
+title: Projects
+---
+
+## Cognitive modelling: Blessing or curse for replication in Psychology?
+
+![](meta-rep1-logo.jpg)
+
+part of the DFG priority programme [META-REP, a meta-scientific program to analyse and optimise replicability in the behavioral, social, and cognitive Sciences](https://www.meta-rep.uni-muenchen.de){target="_blank"}<br />
+
+**Principal Investigators**: Manuel Rausch, [Michael Zehetleitner](https://www.ku.de/ppf/psychologie/psychologie2/mitarbeitende/zehetleitner){target="_blank"}
+
+**Doctoral student**: [Cem Tabakci](https://www.ku.de/ppf/fachgebiete-lehrstuehle/2/mitarbeitende/doktoranden/cem-tabakci){target="_blank"}
+
+**Project duration**: 2022 – 2025
+
+**Funder**: [Deutsche Forschungsgemeinschaft](https://www.dfg.de){target="_blank"}
+
+Psychological science is currently facing a crisis of credibility because researchers have realized that numerous influential psychological studies cannot be replicated. A potential explanation for replication failures is that psychological theories are often underspecified. As a countermeasure against weak theories, it has bees been recommended that psychological studies should make more wide-spread use of formal cognitive modelling to generate more precise predictions. However, it has never been empirically investigated if cognitive modelling analysis is in fact beneficial for replicability.
+
+Given the large number of arbitrary analysis decisions required for cognitive modelling analyses, there is the possibility that cognitive modelling is in fact counterproductive for replicability of psychological findings. In our project, we aim to investigate the replicability of cognitive models based on Bayesian Brain Theory in three exemplary studies. First, we will investigate the reproducibility of the analyses conducted by the authors of the original studies using the original data sets. Second, we will examine the robustness of cognitive modelling analyses by systematically assessing the impact of a variety of theoretically equivalent analysis decisions onto the results. Finally, we will test if we obtain equivalent results as reported in the original studies when we perform exact replication studies of the original experiments.
+
+----
+
+## Sure or unsure: How is confidence in perceptual decisions generated?
+
+![](project_2_banner.png)
+
+Dynamical weighted evidence and visibility model<br />
+
+**Principal Investigators**: Manuel Rausch, [Michael Zehetleitner](https://www.ku.de/ppf/psychologie/psychologie2/mitarbeitende/zehetleitner){target="_blank"}
+
+**Doctoral student**: [Sebastian Hellmann](https://www.ku.de/ppf/psychologie/psychologie2/mitarbeitende/hellmann){target="_blank"}
+
+**Project duration**: 2019 – 2023
+
+**Funder**: [Deutsche Forschungsgemeinschaft](https://www.dfg.de){target="_blank"}
+
+Human observers are frequently faced with the need to respond to external objects although perception of these objects is incomplete or distorted. In these cases, it is necessary to use the percept of the object to make a decision which of several possible objects is present at the moment. In general terms, these decisions are characterized by three properties: First, humans can make a correct or an incorrect decision which of the objects is present. Second, it may take varying periods of time until a decision is accomplished. Finally, humans may feel a greater or lesser degree of confidence about having made the correct decision about the object. However, the existing mathematical theories of decision-making are not able to provide a satisfactory explanation for accuracy, decision time, and confidence at the same time. The goal of the project was to provide and test a mathematical theory of choice, confidence, and decision time. For this purpose, we extended the weighed evidence and visibility model, a recently proposed theory of choice and confidence, to include decision time as well. 
+
+
