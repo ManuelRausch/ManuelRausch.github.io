@@ -4,20 +4,25 @@ about:
   id: about-block
   image: "img/my_image.jpg"
   links:
-    - text: "{{< iconify academicons google-scholar-square >}} google scholar"
+    - text: "{{< iconify academicons google-scholar-square >}} Google Scholar"
       href: https://scholar.google.de/citations?user=QFdVCFEAAAAJ&hl=de
+      target: _blank
     - icon: github
       text: Github
       href: https://github.com/manuelrausch
-    - text: "{{< iconify arcticons bluesky >}} BlueSkye"
+      target: _blank
+    - text: "{{< iconify arcticons bluesky >}} Bluesky"
       href: https://bsky.app/profile/manurausch.bsky.social/
-    - text: "{{< iconify academicons researchgate-square >}} researchgate"
-      href: https://www.researchgate.net/profile/Manuel-Rausch-2  
+      target: _blank
+    # - text: "{{< iconify academicons researchgate-square >}} researchgate"
+    #   href: https://www.researchgate.net/profile/Manuel-Rausch-2  
     - text: "{{< iconify fa6-brands orcid >}} ORCID"
       href: https://orcid.org/0000-0002-5805-5544 
+      target: _blank
     - icon: envelope
       text: Email
-      href: mailto:manuel.rausch@hochschule-rhein-waal.de"  
+      href: mailto:manuel.rausch@hochschule-rhein-waal.de
+      target: _blank"  
 ---
 
 ::: {#about-block}

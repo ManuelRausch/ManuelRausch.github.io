@@ -36,11 +36,12 @@ website:
       - text: "{{< iconify arcticons bluesky >}}"
         href: https://bsky.app/profile/manurausch.bsky.social/
         target: _blank
-      - text: "{{< iconify academicons researchgate-square >}}"
-        href: https://www.researchgate.net/profile/Manuel-Rausch-2
-        target: _blank
+      # - text: "{{< iconify academicons researchgate-square >}}"
+      #   href: https://www.researchgate.net/profile/Manuel-Rausch-2
+      #   target: _blank
       - text: "{{< iconify fa6-brands orcid >}}"
-        href: "https://orcid.org/0000-0002-5805-5544" 
+        href: "https://orcid.org/0000-0002-5805-5544"
+        target: _blank
       - icon: envelope
         aria-label: email
         href: "mailto:manuel.rausch@hochschule-rhein-waal.de"
