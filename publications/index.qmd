@@ -2,11 +2,9 @@
 title: Publications
 ---
 
-## Submitted manuscripts
-
-Rausch, M., Hellmann, S., & Zehetleitner, M. (2023). Measures of metacognitive efficiency across cognitive models of decision confidence. PsyArXiv. doi:10.31234/osf.io/kdz34 | [Full text](Rausch (2023) Meta-d preprint.pdf){target="_blank"}
-
 ## Publications in peer-reviewed journals
+
+Rausch, M., Hellmann, S., & Zehetleitner, M. (in press). Measures of metacognitive efficiency across cognitive models of decision confidence. **Psychological Methods**. | [accepted author manuscript](Rausch (2023) Meta-d preprint.pdf){target="_blank"} | [data and code](https://osf.io/72uds/){target="_blank"}
 
 Hellmann, S., Zehetleitner, M., & Rausch, M. (2023). Simultaneous modeling of choice, confidence, and response time in visual perception. **Psychological Review**. doi:10.1037/rev0000411 | [accepted author manuscript](Hellmann (2023) Accepted Author Manuscript.pdf){target="_blank"} | [data and code](https://github.com/SeHellmann/SeqSamplingConfidenceModels){target="_blank"}
 
@@ -32,4 +30,4 @@ Rausch, M., Müller, H. J., & Zehetleitner, M. (2015). Metacognitive sensitivity
 
 Rausch, M., & Zehetleitner, M. (2014). A comparison between a visual analogue scale and a four point scale as measures of conscious experience of motion. **Consciousness and Cognition**, 28(1), 126–140. doi:10.1016/j.concog.2014.06.012 | [accepted author manuscript](Rausch (2014) VAS vs PAS Accepted Author Manuscript.pdf){target="_blank"}
 
-Zehetleitner, M., & Rausch, M. (2013)*. Being confident without seeing: What subjective measures of visual consciousness are about. **Attention, Perception, and Psychophysics**, 75(7), 1406–1426. doi:10.3758/s13414-013-0505-2 [Full text from publisher](https://link.springer.com/content/pdf/10.3758/s13414-013-0505-2.pdf){target="_blank"}
+Zehetleitner, M., & Rausch, M. (2013)*. Being confident without seeing: What subjective measures of visual consciousness are about. **Attention, Perception, and Psychophysics**, 75(7), 1406–1426. doi:10.3758/s13414-013-0505-2 | [Full text from publisher](https://link.springer.com/content/pdf/10.3758/s13414-013-0505-2.pdf){target="_blank"}
