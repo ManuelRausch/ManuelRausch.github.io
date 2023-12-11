@@ -8,8 +8,8 @@ title: Teaching
 
 | Course title | Course level | Course type | language |
 |---------|:-----|------:|:------:|
-| Behavioral Economics | M. Sc. |  lecture | English |
-| Behavioral Finance | M. Sc. | lecture | English |
+| Behavioral Economics | B. Sc. |  lecture | English |
+| Behavioral Finance | B. Sc. | lecture | English |
 
 
 #### Catholic University of Eichstädt-Ingolstadt

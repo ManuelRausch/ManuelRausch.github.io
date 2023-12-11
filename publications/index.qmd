@@ -2,6 +2,12 @@
 title: Publications
 ---
 
+
+## Pre-prints
+
+Hellmann, S., Zehetleitner, M., & Rausch, M. (2023). Confidence is influenced by evidence accumulation time in dynamical decision models. PsyArXiv. doi:10.31234/osf.io/5ze8t | [pre-print](https://osf.io/preprints/psyarxiv/5ze8t/download){target="_blank"} | [data and code](https://github.com/SeHellmann/MaterialsTimeInConfidence){target="_blank"}
+
+
 ## Publications in peer-reviewed journals
 
 Rausch, M., Hellmann, S., & Zehetleitner, M. (in press). Measures of metacognitive efficiency across cognitive models of decision confidence. **Psychological Methods**. doi:10.1037/met0000634 | [accepted author manuscript](Rausch (2023) Accepted author manuscript.pdf){target="_blank"} | [data and code](https://osf.io/72uds/){target="_blank"}

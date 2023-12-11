@@ -25,6 +25,7 @@ $yellow:  #F6D645 !default;
 $green:   #118230 !default;
 $teal:    #068194 !default;
 $cyan:    #3093CF !default;
+$lightblue: #add8e6 !default;
 
 $primary:   $black!default;
 $secondary: $gray-700 !default;
@@ -59,7 +60,7 @@ $toc-font-size: 1em;
 $btn-code-copy-color-active: $orange !default;
 
 
-$navbar-hl: $yellow;
+$navbar-hl: $blue;
 
 /*-- scss:rules --*/
 
@@ -71,7 +72,7 @@ $navbar-hl: $yellow;
     //font-family: $footer-font-family;
 
     a {
-        color: $yellow;
+        color: $blue;
     }
 
     .faux-block {

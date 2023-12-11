@@ -38,6 +38,7 @@ I am a post-doctorial researcher in Psychology and Cognitive Neuroscience based 
 * Perceptual decision making
 * Confidence in perceptual decision making
 * Visual awareness
+* Meta-Psychology
 * Machine learning and Psychology
 
 I signed the [commitment to research transparency and open science](http://www.researchtransparency.org). 
