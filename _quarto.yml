@@ -2,8 +2,8 @@
 
 # website settings
 website:
-  title: "Dr. Manuel Rausch"                                # Your name
-  description: "Psychologist and Cognitive Neuroscientist at Rhein-Waal University!"   # A brief slogan (optional)
+  title: "PD Dr. Manuel Rausch"                                # Your name
+  description: "Psychologist and Cognitive Neuroscientist at Rhine-Waal University!"   # A brief slogan (optional)
   image: img/my_image.jpg
   #favicon: img/favicon.png
   
@@ -33,7 +33,7 @@ website:
       - icon: github
         href: https://github.com/manuelrausch
         target: _blank
-      - text: "{{< iconify arcticons bluesky >}}"
+      - text: "{{< iconify simple-icons bluesky >}}"
         href: https://bsky.app/profile/manurausch.bsky.social/
         target: _blank
       # - text: "{{< iconify academicons researchgate-square >}}"

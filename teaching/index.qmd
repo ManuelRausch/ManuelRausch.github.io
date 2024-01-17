@@ -2,20 +2,21 @@
 title: Teaching
 ---
 
-## Courses
+I hold the Certificate for Teaching in Higher Education of the Bavarian Universities (Basic Level). 
+
+## Course portfolio
 
 #### Rhine-Waal University of Applied Sciences
 
 | Course title | Course level | Course type | language |
-|---------|:-----|------:|:------:|
+|---------|:-----|:------|:------|
 | Behavioral Economics | B. Sc. |  lecture | English |
-| Behavioral Finance | B. Sc. | lecture | English |
 
 
 #### Catholic University of Eichstädt-Ingolstadt
 
 | Course title | Course level | Course type | language |
-|---------|:-----|------:|:------:|
+|---------|:-----|:------|:------|
 | General Psychology | B. Sc. | lecture | German |
 | General Psychology | B. Sc. | seminar | German |
 | Introduction into Empirical Psychology | B. Sc. | seminar | German |
@@ -25,7 +26,7 @@ title: Teaching
 #### Ludwig-Maximilians-Universität München
 
 | Course title | Course level | Course type | language |
-|---------|:-----|------:|:------:|
+|---------|:-----|:------|:------|
 | Introduction into Statistics | B. Sc. | lecture | German |
 | Scientific Practice | B. Sc. | seminar | German |
 | Interdisciplinary communication of research findings | M. Sc. | seminar | German |
@@ -40,6 +41,14 @@ title: Teaching
 * 7 thesis for the state examination for beginning teachers 
 
 ## Teaching evaluation
-* 16 evaluated courses at the Catholic University of Eichstädt-Ingostadt
-* Average evaluation of courses by students: 1.5 (on a scale from 1 “best” to 5 “worst”)
+
+| Semester | Course title | Number of students in course | Number of returned questionnaires | Average student response to the item *What grade do you give the course overall?* from 1 *very good* to 5 *unsatisfactory* | 
+|---------|:-----|:------|:------|:------|
+| Winter 2023-24 | Behavioral Economics | 35 | 7 | 1.57 |
+| Sommer 2022 | General Psychology 1 (Lecture) | 60 | 23 | 2.00 |
+| Sommer 2022 | General Psychology 1 (Seminar B. Sc. Psyhology) | 30 | 20 | 1.85 |
+| Sommer 2022 | General Psychology 1 (Seminar for teacher trainnees) | 30 | 15 | 2.27 |
+| Winter 2020-2021 |	Empirical-experimental practical seminar: advanced | 9 |	6	 | 1.33 |
+| Summer 2020	| Current research issues	| 8	| 6 |	1.00 |
+| Summer 2020	| Empirical-experimental practical seminar: Basic module |	13 |	6 |	1.67
 

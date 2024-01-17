@@ -11,7 +11,7 @@ about:
       text: Github
       href: https://github.com/manuelrausch
       target: _blank
-    - text: "{{< iconify arcticons bluesky >}} Bluesky"
+    - text: "{{< iconify simple-icons bluesky >}} Bluesky"
       href: https://bsky.app/profile/manurausch.bsky.social/
       target: _blank
     # - text: "{{< iconify academicons researchgate-square >}} researchgate"
@@ -30,7 +30,7 @@ about:
 
 # Welcome to Manuel Rausch's website!
 
-I am a post-doctorial researcher in Psychology and Cognitive Neuroscience based at the [Rhine-Waal University of Applied Sciences](https://www.hochschule-rhein-waal.de/en). My research interests include
+I am a research associate in Psychology and Cognitive Neuroscience based at the [Rhine-Waal University of Applied Sciences](https://www.hochschule-rhein-waal.de/en). My research interests include
 
 * Metacognition 
 * Cognitive modeling
