@@ -41,6 +41,8 @@ I am a research associate in Psychology and Cognitive Neuroscience based at the 
 * Meta-Psychology
 * Machine learning and Psychology
 
+![ ](img/Download.png)
+
 I signed the [commitment to research transparency and open science](http://www.researchtransparency.org). 
 
 ![ ](img/rt_logo_very_wide.png)
