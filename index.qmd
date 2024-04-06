@@ -32,21 +32,19 @@ about:
 
 I am a research associate in Psychology and Cognitive Neuroscience based at the [Rhine-Waal University of Applied Sciences](https://www.hochschule-rhein-waal.de/en). My research interests include
 
-* Metacognition 
-* Cognitive modeling
-* Mathematical modeling of behaviour
-* Perceptual decision making
-* Confidence in perceptual decision making
-* Visual awareness
-* Meta-Psychology
-* Machine learning and Psychology
+-   Metacognition
+-   Cognitive modeling
+-   Mathematical modeling of behaviour
+-   Perceptual decision making
+-   Confidence in perceptual decision making
+-   Visual awareness
+-   Meta-Psychology
+-   Machine learning and Psychology
 
-![ ](img/Download.png)
+![](img/Download.png)
 
-I signed the [commitment to research transparency and open science](http://www.researchtransparency.org). 
+I signed the [commitment to research transparency and open science](http://www.researchtransparency.org).
 
-![ ](img/rt_logo_very_wide.png)
+![](img/rt_logo_very_wide.png)
 
 Please feel free to [contact me](mailto:manuel.rausch@hochschule-rhein-waal.de) if you have any questions or would like to discuss potential projects.
-
-
