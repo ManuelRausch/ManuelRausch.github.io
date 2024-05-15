@@ -3,8 +3,10 @@ title: Publications
 ---
 
 ## Pre-prints
+Hellmann, S., Zehetleitner, M., & Rausch, M. (2024). dynConfiR: The R package for sequential sampling models of decision confidence. PsyArXiv. doi:10.31234/osf.io/e354s \|
+[pre-print](https://doi.org/10.31234/osf.io/e354s){target="_blank"} \| [released version of the package](https://cran.r-project.org/web/packages/dynConfiR/index.html){target="_blank"}
 
-Röseler, L., Kaiser, L., Doetsch, C. A., Klett, N., Seida, C., Schütz, A., ... Rausch, M., ... Zhang, Y. (2024). The Replication Database: Documenting the Replicability of Psychological Science. MetaArXiv. doi:10.31222/osf.io/me2ub \| [pre-print](https://osf.io/me2ub/download){target="_blank"} \| [data](https://osf.io/9r62x/){target="_blank"} \| [ShinyApp](https://metaanalyses.shinyapps.io/replicationdatabase/)
+Röseler, L., Kaiser, L., Doetsch, C. A., Klett, N., Seida, C., Schütz, A., Aczel, B.,  Adelina, N., Agostini, V., Alarie, S., Albayarak-Aydemir, N., Aldoh, A., Al-Hoorie, A. H., Azevedo, F., Baker, B. J., Barth, C. L., Beitner, J. , Brick, C., ... Rausch, M., ... Zhang, Y. (2024). The Replication Database: Documenting the Replicability of Psychological Science. MetaArXiv. doi:10.31222/osf.io/me2ub \| [pre-print](https://osf.io/me2ub/download){target="_blank"} \| [data](https://osf.io/9r62x/){target="_blank"} \| [ShinyApp](https://metaanalyses.shinyapps.io/replicationdatabase/)
 
 Rausch, M., & Hellmann, S. (2024). statConfR: An R Package for Static Models of Decision Confidence and Metacognition. PsyArXiv. doi:10.31234/osf.io/dk6mr \| [pre-print](https://osf.io/preprints/psyarxiv/dk6mr){target="_blank"} \| [development version of the package](https://github.com/ManuelRausch/StatConfR){target="_blank"} \| [released version of the package](https://cran.r-project.org/web/packages/statConfR/index.html){target="_blank"}
 
@@ -22,7 +24,7 @@ Rausch, M., Hellmann, S., & Zehetleitner, M. (2021). Modelling visibility judgme
 
 Rausch, M., Zehetleitner, M., Steinhauser, M., & Maier, M. E. (2020). Cognitive modelling reveals distinct electrophysiological markers of decision confidence and error monitoring. **NeuroImage**, 218, 116963. doi:10.1016/j.neuroimage.2020.116963 \| [full text](Rausch%20(2020)%20Distinct%20EEG%20correlates%20of%20confidence%20and%20error%20monitoring.pdf){target="_blank"} \| [data and code](https://osf.io/93weg/){target="_blank"}
 
-Rahnev, D., Desender, K., Lee, A. L. F., Adler, W. T., Aguilar-Lleyda, D., Akdoğan, B., ... Rausch, M., ... Zylberberg, A. (2020). The Confidence Database. **Nature Human Behaviour**, 4, 317--325. doi:10.1038/s41562-019-0813-1 \| [full text from publisher](https://rdcu.be/b232g){target="_blank"} \| [data and code](https://osf.io/s46pr){target="_blank"}
+Rahnev, D., Desender, K., Lee, A. L. F., Adler, W. T., Aguilar-Lleyda, D., Akdoğan, B., Arbuzova, P., Atlas, L. Y., Balcı, F., Bang, J. W., Bègue, I.,  Birney, D. P., Brady, T. F., Calder-Travis, J., Chetverikov, A., Clark, T. K., Davranche, K., Denison, R. N., ... Rausch, M., ... Zylberberg, A. (2020). The Confidence Database. **Nature Human Behaviour**, 4, 317--325. doi:10.1038/s41562-019-0813-1 \| [full text from publisher](https://rdcu.be/b232g){target="_blank"} \| [data and code](https://osf.io/s46pr){target="_blank"}
 
 Rausch, M., & Zehetleitner, M. (2019). The folded X-pattern is not necessarily a statistical signature of decision confidence. **PLoS Computational Biology**, 15(10), e1007456. doi:10.1371/journal.pcbi.1007456 \| [full text](Rausch%20(2019)%20The%20folded%20X-pattern%20is%20not%20a%20statistical%20signature%20of%20confidence.pdf){target="_blank"} \| [data and code](https://osf.io/pfsqz/){target="_blank"}
 

@@ -21,8 +21,8 @@ applications of signal detection theory [(see Rausch et al.,
 **Authors**: Manuel Rausch, [Sebastian
 Hellmann](https://www.ku.de/ppf/psychologie/psychologie2/mitarbeitende/hellmann)<br />
 **Maintainer**: Manuel Rausch<br /> **Development version**: <https://github.com/ManuelRausch/StatConfR><br /> **Release version**: <https://cran.r-project.org/web/packages/statConfR/index.html><br />**Bug Reports**:
-<https://github.com/ManuelRausch/StatConfR/issues>
-**Citable Paper**: Rausch, M., & Hellmann, S. (2024). statConfR: An R Package for Static Models of Decision Confidence and Metacognition. PsyArXiv. doi:10.31234/osf.io/dk6mr \| [pre-print](https://osf.io/preprints/psyarxiv/dk6mr){target="_blank"}<br />
+<https://github.com/ManuelRausch/StatConfR/issues><br />
+**Preprint**: Rausch, M., & Hellmann, S. (2024). statConfR: An R Package for Static Models of Decision Confidence and Metacognition. PsyArXiv. doi:10.31234/osf.io/dk6mr \| [pre-print](https://osf.io/preprints/psyarxiv/dk6mr){target="_blank"}<br />
 
 ## dynConfiR: Dynamic Models for Confidence and Response Time Distributions
 
