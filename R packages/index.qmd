@@ -32,3 +32,4 @@ Hellmann](https://www.ku.de/ppf/psychologie/psychologie2/mitarbeitende/hellmann)
 Manuel Rausch<br /> **Maintainer**: [Sebastian
 Hellmann](https://www.ku.de/ppf/psychologie/psychologie2/mitarbeitende/hellmann)<br />**Development version**: <https://github.com/SeHellmann/dynConfiR><br /> **Release version**: <https://cran.r-project.org/web/packages/dynConfiR/index.html><br />
 **Bug Reports**: <https://github.com/SeHellmann/dynConfiR/issues>
+**Preprint**: Hellmann, S., Zehetleitner, M., & Rausch, M. (2024). dynConfiR: The R package for sequential sampling models of decision confidence. PsyArXiv. doi:10.31234/osf.io/e354s \| [pre-print](https://doi.org/10.31234/osf.io/e354s){target="_blank"}<br />
