@@ -10,9 +10,11 @@ Röseler, L., Kaiser, L., Doetsch, C. A., Klett, N., Seida, C., Schütz, A., Acz
 
 Rausch, M., & Hellmann, S. (2024). statConfR: An R Package for Static Models of Decision Confidence and Metacognition. PsyArXiv. doi:10.31234/osf.io/dk6mr \| [pre-print](https://osf.io/preprints/psyarxiv/dk6mr){target="_blank"} \| [development version of the package](https://github.com/ManuelRausch/StatConfR){target="_blank"} \| [released version of the package](https://cran.r-project.org/web/packages/statConfR/index.html){target="_blank"}
 
-Hellmann, S., Zehetleitner, M., & Rausch, M. (2024). Confidence is influenced by evidence accumulation time in dynamical decision models. PsyArXiv. doi:10.31234/osf.io/5ze8t \| [pre-print](https://osf.io/preprints/psyarxiv/5ze8t/download){target="_blank"} \| [data and code](https://github.com/SeHellmann/MaterialsTimeInConfidence){target="_blank"}
+
 
 ## Publications in peer-reviewed journals
+
+Hellmann, S., Zehetleitner, M., & Rausch, M. (in press). Confidence is influenced by evidence accumulation time in dynamical decision models. **Computational Brain & Behavior**. doi:10.31234/osf.io/5ze8t \| [pre-print](https://osf.io/preprints/psyarxiv/5ze8t/download){target="_blank"} \| [data and code](https://github.com/SeHellmann/MaterialsTimeInConfidence){target="_blank"}
 
 Rausch, M., Hellmann, S., & Zehetleitner, M. (2023). Measures of metacognitive efficiency across cognitive models of decision confidence. **Psychological Methods**. doi:10.1037/met0000634 \| [accepted author manuscript](Rausch%20(2023)%20Accepted%20author%20manuscript.pdf){target="_blank"} \| [data and code](https://osf.io/72uds/){target="_blank"}
 
