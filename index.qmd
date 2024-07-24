@@ -39,7 +39,7 @@ I am a research associate in Psychology and Cognitive Neuroscience based at the 
 -   Confidence in perceptual decision making
 -   Visual awareness
 -   Meta-Psychology
--   Machine learning and Psychology
+
 
 ![](img/Download.png)
 

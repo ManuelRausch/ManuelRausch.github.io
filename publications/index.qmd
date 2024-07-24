@@ -14,7 +14,7 @@ Rausch, M., & Hellmann, S. (2024). statConfR: An R Package for Static Models of 
 
 ## Publications in peer-reviewed journals
 
-Hellmann, S., Zehetleitner, M., & Rausch, M. (in press). Confidence is influenced by evidence accumulation time in dynamical decision models. **Computational Brain & Behavior**. doi:10.31234/osf.io/5ze8t \| [pre-print](https://osf.io/preprints/psyarxiv/5ze8t/download){target="_blank"} \| [data and code](https://github.com/SeHellmann/MaterialsTimeInConfidence){target="_blank"}
+Hellmann, S., Zehetleitner, M., & Rausch, M. (2024). Confidence is influenced by evidence accumulation time in dynamical decision models. **Computational Brain & Behavior**. doi:10.1007/s42113-024-00205-9  \| [full text from publisher](https://link.springer.com/content/pdf/10.1007/s42113-024-00205-9.pdf){target="_blank"} \| [data and code](https://github.com/SeHellmann/MaterialsTimeInConfidence){target="_blank"}
 
 Rausch, M., Hellmann, S., & Zehetleitner, M. (2023). Measures of metacognitive efficiency across cognitive models of decision confidence. **Psychological Methods**. doi:10.1037/met0000634 \| [accepted author manuscript](Rausch%20(2023)%20Accepted%20author%20manuscript.pdf){target="_blank"} \| [data and code](https://osf.io/72uds/){target="_blank"}
 
