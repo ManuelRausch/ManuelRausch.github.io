@@ -12,8 +12,7 @@ Rausch, M., & Hellmann, S. (2024). statConfR: An R Package for Static Models of 
 
 ## Publications in peer-reviewed journals
 
-Röseler, L., Kaiser, L., Doetsch, C., Klett, N., Seida, C., Schütz, A., Aczel, B., Adelina, N., Agostini, V., Alarie, S., Albayrak-Aydemir, N., Aldoh, A., Al-Hoorie, A. H., Azevedo, F., Baker, B. J., Barth, C. L., Beitner, J., Brick, C., Brohmer, H., … Rausch, M., … Zhang, Y. (accepted). The Replication Database: Documenting the Replicability of Psychological Science. The Replication Database: Documenting the Replicability of 
-Psychological Science. **Journal of Open Psychology Data**. doi:10.5334/jopd.101 \| [pre-print](https://osf.io/me2ub/download){target="_blank"} \| [data](https://osf.io/9r62x/){target="_blank"} \| [ShinyApp](https://metaanalyses.shinyapps.io/replicationdatabase/){target="_blank"}
+Röseler, L., Kaiser, L., Doetsch, C., Klett, N., Seida, C., Schütz, A., Aczel, B., Adelina, N., Agostini, V., Alarie, S., Albayrak-Aydemir, N., Aldoh, A., Al-Hoorie, A. H., Azevedo, F., Baker, B. J., Barth, C. L., Beitner, J., Brick, C., Brohmer, H., … Rausch, M., … Zhang, Y. (2024).  The Replication Database: Documenting the Replicability of Psychological Science. **Journal of Open Psychology Data**, 12(8), 1–23.  doi:10.5334/jopd.101 \| [full text from publisher](https://openpsychologydata.metajnl.com/articles/101/files/66e18fdc5e1b7.pdf){target="_blank"} \| [data](https://osf.io/9r62x/){target="_blank"} \| [ShinyApp](https://metaanalyses.shinyapps.io/replicationdatabase/){target="_blank"}
 
 Mushtaq, F., Welke, D., Gallagher, A., Pavlov Y. G., Kouara, L., Bosch-Bayard, J., van den Bosch J. J. F., Arvaneh, M., Bland A. R., Chaumon, M., Borck, C., He, X., Luck, S. J., Machizawa, M. G., Pernet, C., Puce, A., Segalowitz, S., Rogers, C., Awais, M., ... Rausch, M., … Valdez-Sosa, P. (2024). One hundred years of EEG for brain and behaviour research. **Nature Human Behaviour**, 8, 1437–1443.  doi:10.1038/s41562-024-01941-5 \| [full text from publisher](https://t.co/2TvToy4uCi){target="_blank"} \| [data and code](https://osf.io/qv38p/){target="_blank"}
 
@@ -23,7 +22,7 @@ Rausch, M., Hellmann, S., & Zehetleitner, M. (2023). Measures of metacognitive e
 
 Rausch, M., & Zehetleitner, M. (2023). Evaluating false positive rates of standard and hierarchical measures of metacognitive accuracy. **Metacognition & Learning**, 18, 863--889. doi:10.1007/s11409-023-09353-y \| [full text](Rausch%20(2023)%20Hierarchical%20bootstraping%20metacognition.pdf){target="_blank"} \| [simulated data and code](https://osf.io/4pfrs){target="_blank"}
 
-Hellmann, S., Zehetleitner, M., & Rausch, M. (2023). Simultaneous modeling of choice, confidence, and response time in visual perception. **Psychological Review**, 130(6), 1521--1543. doi:10.1037/rev0000411 \| [accepted author manuscript](Hellmann%20(2023)%20Accepted%20Author%20Manuscript.pdf){target="_blank"} \| [data and code](https://github.com/SeHellmann/SeqSamplingConfidenceModels){target="_blank"}
+Hellmann, S., Zehetleitner, M., & Rausch, M. (2023). Simultaneous modeling of choice, confidence, and response time in visual perception. **Psychological Review**, 130(6), 1521-1543. doi:10.1037/rev0000411 \| [accepted author manuscript](Hellmann%20(2023)%20Accepted%20Author%20Manuscript.pdf){target="_blank"} \| [data and code](https://github.com/SeHellmann/SeqSamplingConfidenceModels){target="_blank"}
 
 Rausch, M., Hellmann, S., & Zehetleitner, M. (2021). Modelling visibility judgments using models of decision confidence. **Attention, Perception, and Psychophysics**, 83(8), 3311-3336. doi:10.3758/s13414-021-02284-3 \| [full text](Rausch%20(2021)%20Modelling%20visibility%20judgments.pdf){target="_blank"} \| [data and code](https://osf.io/gfkta/){target="_blank"}
 
