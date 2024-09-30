@@ -17,8 +17,13 @@ I hold the Certificate for Teaching in Higher Education of the Bavarian Universi
 
 | Course title | Course level | Course type | language |
 |---------|:-----|:------|:------|
-| General Psychology | B. Sc. | lecture | German |
-| General Psychology | B. Sc. | seminar | German |
+| General Psychology II | B. Sc. | lecture | German |
+| Biological Psychology | B. Sc. | lecture | German |
+| Cognitive Neuroscience: Basics | M. Sc. | seminar | German |
+| Experimental design & data analysis | M. Sc. | lecture | German |
+| Research methods in psychology | M. Sc. | lecture | German |
+| General Psychology I | B. Sc. | lecture | German |
+| General Psychology I | B. Sc. | seminar | German |
 | Introduction into Empirical Psychology | B. Sc. | seminar | German |
 | Current research issues | B. Sc. | seminar | German |
 | Research project | M. Sc. | seminar | German 
@@ -30,25 +35,13 @@ I hold the Certificate for Teaching in Higher Education of the Bavarian Universi
 | Introduction into Statistics | B. Sc. | lecture | German |
 | Scientific Practice | B. Sc. | seminar | German |
 | Interdisciplinary communication of research findings | M. Sc. | seminar | German |
-| Cognitive modelling in R | M. Sc. | seminar | German |
-| Reaction time and psychophysical methods | M. Sc. | tutorial | German |
+| Cognitive modelling in R | M. Sc. | seminar | English |
+| Reaction time and psychophysical methods | M. Sc. | tutorial | English |
 
 ## Supervision
 
 * 2 PhD students
-* 25 Master theses
+* 27 Master theses
 * 10 Bachelor theses
 * 7 thesis for the state examination for beginning teachers 
-
-## Teaching evaluation
-
-| Semester | Course title | Number of students in course | Number of returned questionnaires | Average student response to the item *What grade do you give the course overall?* from 1 *very good* to 5 *unsatisfactory* | 
-|---------|:-----|:------|:------|:------|
-| Winter 2023-24 | Behavioral Economics | 35 | 7 | 1.57 |
-| Sommer 2022 | General Psychology 1 (Lecture) | 60 | 23 | 2.00 |
-| Sommer 2022 | General Psychology 1 (Seminar B. Sc. Psyhology) | 30 | 20 | 1.85 |
-| Sommer 2022 | General Psychology 1 (Seminar for teacher trainnees) | 30 | 15 | 2.27 |
-| Winter 2020-2021 |	Empirical-experimental practical seminar: advanced | 9 |	6	 | 1.33 |
-| Summer 2020	| Current research issues	| 8	| 6 |	1.00 |
-| Summer 2020	| Empirical-experimental practical seminar: Basic module |	13 |	6 |	1.67
 

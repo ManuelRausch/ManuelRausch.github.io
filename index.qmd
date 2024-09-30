@@ -30,16 +30,16 @@ about:
 
 # Welcome to Manuel Rausch's website!
 
-I am currently substituting as Professor for General Psychology at the [Catholic University of Eichstätt-Ingolstadt](https://www.ku.de/ppf/psychologie/psychologie6). Otherwise, I am 
+I am currently substituting as Professor at the [Chair of General Psychology](https://www.ku.de/ppf/psychologie/psychologie6) at the [Catholic University of Eichstätt-Ingolstadt](http://www.ku.de). Otherwise, I am 
 a research associate in Psychology and Cognitive Neuroscience based at [Rhine-Waal University of Applied Sciences, Faculty of Society and Economics](https://www.hochschule-rhein-waal.de/en/faculties/society-and-economics). My research interests include
 
--   Metacognition
--   Cognitive modeling
--   Mathematical modeling of behaviour
--   Perceptual decision making
--   Confidence in perceptual decision making
--   Visual awareness
--   Meta-Psychology
+-   metacognition,
+-   cognitive modelling,
+-   mathematical modeling of behaviour,
+-   perceptual decision making,
+-   decision confidence,
+-   visual awareness,
+-   metapsychology.
 
 I signed the [commitment to research transparency and open science](http://www.researchtransparency.org).
 
