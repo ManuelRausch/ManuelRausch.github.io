@@ -30,7 +30,8 @@ about:
 
 # Welcome to Manuel Rausch's website!
 
-I am a research associate in Psychology and Cognitive Neuroscience based at the [Rhine-Waal University of Applied Sciences](https://www.hochschule-rhein-waal.de/en). My research interests include
+I am currently substituting as Professor for General Psychology at the [Catholic University of Eichstätt-Ingolstadt](https://www.ku.de/ppf/psychologie/psychologie6). Otherwise, I am 
+a research associate in Psychology and Cognitive Neuroscience based at [Rhine-Waal University of Applied Sciences, Faculty of Society and Economics](https://www.hochschule-rhein-waal.de/en/faculties/society-and-economics). My research interests include
 
 -   Metacognition
 -   Cognitive modeling
@@ -40,11 +41,8 @@ I am a research associate in Psychology and Cognitive Neuroscience based at the 
 -   Visual awareness
 -   Meta-Psychology
 
-
-![](img/Download.png)
-
 I signed the [commitment to research transparency and open science](http://www.researchtransparency.org).
 
 ![](img/rt_logo_very_wide.png)
 
-Please feel free to [contact me](mailto:manuel.rausch@hochschule-rhein-waal.de) if you have any questions or would like to discuss potential projects.
+Please feel free to [contact me](mailto:manuel.rausch@ku.de) if you have any questions or would like to discuss potential projects.
