@@ -2,7 +2,7 @@
 
 # website settings
 website:
-  title: "Professor Manuel Rausch"                                # Your name
+  title: "Prof. Manuel Rausch"                                # Your name
   description: "Psychologist and Cognitive Neuroscientist at Rhine-Waal University and Catholic University of Eichstätt-Ingolstadt. Cognitive modeling, perceptual decision making, confidence, metacognition, visual awareness, metascience."   # A brief slogan (optional)
   image: img/my_image.jpg
   #favicon: img/favicon.png
