@@ -3,16 +3,16 @@ title: Publications
 ---
 
 ## Pre-prints
-
+<!--
 Short, C., Breznau, N., Bruntsch, M., Burkhardt, M., Busch, N., Cesnaite, E., Frank, M., Gießing, C.,
 Krähmer, D., Kristanto, D., Lonsdorf, T., Neuendorf, C., Nguyen, H. H. V., Rausch, M., Schmalz, X., 
-Schneck, A., Tabakci, C., and Hildebrandt, A. (2025). Multi-curious: A multi-disciplinary guide to multiverse analysis. MetaArXiv. 
-
+Schneck, A., Tabakci, C., & Hildebrandt, A. (2025). Multi-curious: A multi-disciplinary guide to multiverse analysis. MetaArXiv. 
+-->
 Hellmann, S., Zehetleitner, M., & Rausch, M. (2024). dynConfiR: The R package for sequential sampling models of decision confidence. PsyArXiv. doi:10.31234/osf.io/e354s \| [pre-print](https://doi.org/10.31234/osf.io/e354s){target="_blank"} \| [development version of the package](https://github.com/SeHellmann/dynConfiR){target="_blank"} \| [released version of the package](https://cran.r-project.org/web/packages/dynConfiR/index.html){target="_blank"}
 
 ## Publications in peer-reviewed journals
 
-Rausch, M., Meyen, S. & Hellmann, S. (2025). StatConfR: An R Package for Static Models of Decision Confidence and Metacognition. **Journal of Open Source Software**, 10(106), 6966. doi:10.21105/joss.06966 \| [full text](Rausch%20(2025)%20StatConfR.pdf){target="_blank"}\| [development version of the package](https://github.com/ManuelRausch/StatConfR){target="_blank"} \| [released version of the package](https://cran.r-project.org/web/packages/statConfR/index.html){target="_blank"}
+Rausch, M., Meyen, S. & Hellmann, S. (2025). StatConfR: An R Package for Static Models of Decision Confidence and Metacognition. **Journal of Open Source Software**, 10(106), 6966. doi:10.21105/joss.06966 \| [full text](Rausch%20(2025)%20StatConfR.pdf){target="_blank"} \| [development version of the package](https://github.com/ManuelRausch/StatConfR){target="_blank"} \| [released version of the package](https://cran.r-project.org/web/packages/statConfR/index.html){target="_blank"}
 
 Röseler, L., Kaiser, L., Doetsch, C., Klett, N., Seida, C., Schütz, A., Aczel, B., Adelina, N., Agostini, V., Alarie, S., Albayrak-Aydemir, N., Aldoh, A., Al-Hoorie, A. H., Azevedo, F., Baker, B. J., Barth, C. L., Beitner, J., Brick, C., Brohmer, H., … Rausch, M., … Zhang, Y. (2024).  The Replication Database: Documenting the Replicability of Psychological Science. **Journal of Open Psychology Data**, 12(8), 1–23.  doi:10.5334/jopd.101 \| [full text from publisher](https://openpsychologydata.metajnl.com/articles/101/files/66e18fdc5e1b7.pdf){target="_blank"} \| [data](https://osf.io/9r62x/){target="_blank"} \| [ShinyApp](https://metaanalyses.shinyapps.io/replicationdatabase/){target="_blank"}
 
