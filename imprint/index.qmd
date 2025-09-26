@@ -2,8 +2,12 @@
 title: Impressum
 ---
 
-Responsible for the content of this site is:<br />
-Dr. Manuel Rausch<br />
-Marie-Curie-Straße 1, D-47533 Kleve<br />
-E-Mail: [manuel.rausch@hochschule-rhein-waal.de](mailto:manuel.rausch@hochschule-rhein-waal.de)<br />
-Phone: [+49 2821 806 73-9879](tel:+49 2821 806 73-9879)
+Verantwortlich für den Inhalt dieser Website:<br />
+Dr. Manuel Rausch, M.Sc. <br />
+Universität Klagenfurt<br />
+Universitätsstraße 65-67<br />
+9020 Klagenfurt am Wörthersee<br />
+E-Mail: manuel.rausch[at]aau[dot]at<br />
+
+Offenlegung gemäß § 25 Mediengesetz  {{< iconify flag at-4x3>}}:<br />
+Diese Website dient ausschließlich der Information über meine wissenschaftliche Tätigkeit. Sie verfolgt keine kommerziellen Zwecke und enthält keine Werbung.

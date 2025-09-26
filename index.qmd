@@ -21,7 +21,7 @@ about:
       target: _blank
     - icon: envelope
       text: Email
-      href: mailto:manuel.rausch@hochschule-rhein-waal.de
+      href: mailto:manuel.rausch@aau.at   # insert email adress here
       target: _blank"  
 ---
 
@@ -30,19 +30,26 @@ about:
 
 # Welcome to Manuel Rausch's website!
 
-I am currently substituting as Professor at the [Chair of General Psychology](https://www.ku.de/ppf/psychologie/psychologie6) at the [Catholic University of Eichstätt-Ingolstadt](http://www.ku.de). Otherwise, I am 
-a research associate in Psychology and Cognitive Neuroscience based at [Rhine-Waal University of Applied Sciences, Faculty of Society and Economics](https://www.hochschule-rhein-waal.de/en/faculties/society-and-economics). My research interests include
+I am a Senior Scientist at the University of Klagenfurt {{< iconify flag at-4x3>}}, Department of Psychology, working at the Section of Research Methods with [Ao. Univ.-Prof. Rainer W. Alexandrowicz](https://www.aau.at/en/team/alexandrowicz-rainer/). 
+I am also a Privatdozent at the Catholic University of Eichstätt-Ingolstadt <img src="img/32px-Flag_of_Bavaria.svg" alt="Bavarian Flag" style="width:24px; height:20px;">, Faculty of Philosophy and Education. 
+
+<!-- I am currently substituting as Professor at the [Chair of General Psychology](https://www.ku.de/ppf/psychologie/psychologie6) at the [Catholic University of Eichstätt-Ingolstadt](http://www.ku.de){{< iconify flag de-4x3>}}. Otherwise, I am 
+a research associate in Psychology and Cognitive Neuroscience based at [Rhine-Waal University of Applied Sciences, Faculty of Society and Economics](https://www.hochschule-rhein-waal.de/en/faculties/society-and-economics). 
+-->
+My research interests include:
 
 -   metacognition,
 -   cognitive modelling,
--   mathematical modeling of behaviour,
+-   mathematical modelling of behaviour,
 -   perceptual decision making,
 -   decision confidence,
 -   visual awareness,
 -   metapsychology.
 
-I signed the [commitment to research transparency and open science](http://www.researchtransparency.org).
+Please feel free to [contact me](mailto:manuel.rausch@aau.at) if you have any questions or would like to discuss potential projects.
 
 ![](img/rt_logo_very_wide.png)
 
-Please feel free to [contact me](mailto:manuel.rausch@ku.de) if you have any questions or would like to discuss potential projects.
+I signed the [commitment to research transparency and open science](http://www.researchtransparency.org).
+
+

@@ -6,29 +6,38 @@ I hold the Certificate for Teaching in Higher Education of the Bavarian Universi
 
 ## Course portfolio
 
-#### Rhine-Waal University of Applied Sciences
+### University of Klagenfurt 
+
+| Course title | Course level | Course type | language |
+|---------|:-----|:------|:------|
+| Introduction into Bayesian Modelling | M. Sc. |  seminar | German |
+
+### Catholic University of Eichstädt-Ingolstadt
+
+| Course title | Course level | Course type | language |
+|---------|:-----|:------|:------|
+| General Psychology III: Thinking & speech | B. Sc. | lecture | German |
+| Cognitive Neuroscience: Advanced course | M. Sc. | seminar | German |
+| Psychology of Learning and Cognition | teacher trainees | lecture | German |
+| General Psychology II: Learning & memory | B. Sc. | lecture | German |
+| Biological Psychology | B. Sc. | lecture | German |
+| Cognitive Neuroscience: Basics | M. Sc. | seminar | German |
+| Experimental design & data analysis | M. Sc. | lecture | German |
+| Research methods in psychology | M. Sc. | lecture | German |
+| General Psychology I: Perception | B. Sc. | lecture | German |
+| General Psychology I | B. Sc. | seminar | German |
+| Introduction into Empirical Psychology | B. Sc. | seminar | German |
+| Current research issues | B. Sc. | seminar | German |
+| Research project | M. Sc. | seminar | German 
+
+### Rhine-Waal University of Applied Sciences
 
 | Course title | Course level | Course type | language |
 |---------|:-----|:------|:------|
 | Behavioral Economics | B. Sc. |  lecture | English |
 
 
-#### Catholic University of Eichstädt-Ingolstadt
-
-| Course title | Course level | Course type | language |
-|---------|:-----|:------|:------|
-| General Psychology II | B. Sc. | lecture | German |
-| Biological Psychology | B. Sc. | lecture | German |
-| Cognitive Neuroscience: Basics | M. Sc. | seminar | German |
-| Experimental design & data analysis | M. Sc. | lecture | German |
-| Research methods in psychology | M. Sc. | lecture | German |
-| General Psychology I | B. Sc. | lecture | German |
-| General Psychology I | B. Sc. | seminar | German |
-| Introduction into Empirical Psychology | B. Sc. | seminar | German |
-| Current research issues | B. Sc. | seminar | German |
-| Research project | M. Sc. | seminar | German 
-
-#### Ludwig-Maximilians-Universität München
+### Ludwig-Maximilians-Universität München
 
 | Course title | Course level | Course type | language |
 |---------|:-----|:------|:------|

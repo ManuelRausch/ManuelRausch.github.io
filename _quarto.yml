@@ -2,8 +2,8 @@
 
 # website settings
 website:
-  title: "Prof. Manuel Rausch"                                # Your name
-  description: "Psychologist and Cognitive Neuroscientist at Rhine-Waal University and Catholic University of Eichstätt-Ingolstadt. Cognitive modeling, perceptual decision making, confidence, metacognition, visual awareness, metascience."   # A brief slogan (optional)
+  title: "PD Dr. Manuel Rausch"  # Your name
+  description: "Psychologist and Cognitive Neuroscientist at Alpe-Adria-University Klagenfurt. Cognitive modeling, perceptual decision making, confidence, metacognition, visual awareness, metascience."   # A brief slogan (optional)
   image: img/my_image.jpg
   #favicon: img/favicon.png
   
@@ -44,7 +44,7 @@ website:
         target: _blank
       - icon: envelope
         aria-label: email
-        href: "mailto:manuel.rausch@hochschule-rhein-waal.de"
+        href: "mailto:manuel.rausch@aau.at"    # insert the new email adress here
         target: _blank
   
   

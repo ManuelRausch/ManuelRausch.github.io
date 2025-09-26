@@ -9,27 +9,50 @@ editor:
 
 ## statConfR: Models of Decision Confidence and Metacognition
 
-
-The statConfR R package provides fitting functions and other tools for decision confidence and
-metacognition researchers, including meta-d′/d′ ([Maniscalco and Lau,
+The statConfR R package provides fitting functions and other tools for
+decision confidence and metacognition researchers, including meta-d′/d′
+([Maniscalco and Lau,
 2012](https://www.sciencedirect.com/science/article/abs/pii/S1053810011002303)),
 often considered to be the gold standard to measure metacognitive
-efficiency. Also allows to fit nine different static models of decision
+efficiency, and meta-information theoretic measures of metacognition.
+Also allows to fit and compare ten different static models of decision
 making and confidence to test the model underlying meta-d′/d′ and many
 applications of signal detection theory [(see Rausch et al.,
 2023)](../publications/Rausch%20(2023)%20Accepted%20author%20manuscript.pdf){target="_blank"}.<br />
-**Authors**: Manuel Rausch, [Sebastian
+**Authors**: Manuel Rausch, Sascha Meyen, [Sebastian
 Hellmann](https://www.msl.mgt.tum.de/brm/team/sebastian-hellmann/)<br />
-**Maintainer**: Manuel Rausch<br /> **Development version**: <https://github.com/ManuelRausch/StatConfR><br /> **Release version**: <https://cran.r-project.org/web/packages/statConfR/index.html><br />**Bug Reports**:
-<https://github.com/ManuelRausch/StatConfR/issues><br />
-**Preprint**: Rausch, M., & Hellmann, S. (2024). statConfR: An R Package for Static Models of Decision Confidence and Metacognition. PsyArXiv. doi:10.31234/osf.io/dk6mr \| [pre-print](https://osf.io/preprints/psyarxiv/dk6mr){target="_blank"}<br />
+**Maintainer**: Manuel Rausch<br /> **Development version**:
+<https://github.com/ManuelRausch/StatConfR><br /> **Release version**:
+<https://cran.r-project.org/web/packages/statConfR/index.html><br />**Bug
+Reports**: <https://github.com/ManuelRausch/StatConfR/issues><br />
+**Journal paper**: Rausch, M., Meyen, S. & Hellmann, S. (2025).
+StatConfR: An R Package for Static Models of Decision Confidence and
+Metacognition. **Journal of Open Source Software**, 10(106), 6966.
+doi:10.21105/joss.06966 \| [full
+text](../publicationsRausch%20(2025)%20StatConfR.pdf){target="_blank"}<br />
 
 ## dynConfiR: Dynamic Models for Confidence and Response Time Distributions
 
-The dynConfiR R package provides density functions for the joint distribution of
-choice, response time and confidence for discrete confidence judgments as well as functions for parameter fitting, prediction and simulation for various dynamical models of decision confidence (see [Hellmann et al., 2023](../publications/Hellmann%20(2023)%20Accepted%20Author%20Manuscript.pdf){target="_blank"}, and [Hellmann et al., 2024](https://osf.io/preprints/psyarxiv/5ze8t/download){target="_blank"}, for detailed explanations of the different models), including the dynaViTE model, the dynWEV model, the 2DSD model [(Pleskac & Busemeyer, 2010)](https://doi.org/10.1037/a0019737){target="_blank"}, and several race models.<br />**Authors**: [Sebastian
+The dynConfiR R package provides density functions for the joint
+distribution of choice, response time and confidence for discrete
+confidence judgments as well as functions for parameter fitting,
+prediction and simulation for various dynamical models of decision
+confidence (see [Hellmann et al.,
+2023](../publications/Hellmann%20(2023)%20Accepted%20Author%20Manuscript.pdf){target="_blank"},
+and [Hellmann et al.,
+2024](https://osf.io/preprints/psyarxiv/5ze8t/download){target="_blank"},
+for detailed explanations of the different models), including the
+dynaViTE model, the dynWEV model, the 2DSD model [(Pleskac & Busemeyer,
+2010)](https://doi.org/10.1037/a0019737){target="_blank"}, and several
+race models.<br />**Authors**: [Sebastian
 Hellmann](https://www.ku.de/ppf/psychologie/psychologie2/mitarbeitende/hellmann),
 Manuel Rausch<br /> **Maintainer**: [Sebastian
-Hellmann](https://www.msl.mgt.tum.de/brm/team/sebastian-hellmann/)<br />**Development version**: <https://github.com/SeHellmann/dynConfiR><br /> **Release version**: <https://cran.r-project.org/web/packages/dynConfiR/index.html><br />
+Hellmann](https://www.msl.mgt.tum.de/brm/team/sebastian-hellmann/)<br />**Development
+version**: <https://github.com/SeHellmann/dynConfiR><br /> **Release
+version**:
+<https://cran.r-project.org/web/packages/dynConfiR/index.html><br />
 **Bug Reports**: <https://github.com/SeHellmann/dynConfiR/issues>
-**Preprint**: Hellmann, S., Zehetleitner, M., & Rausch, M. (2024). dynConfiR: The R package for sequential sampling models of decision confidence. PsyArXiv. doi:10.31234/osf.io/e354s \| [pre-print](https://doi.org/10.31234/osf.io/e354s){target="_blank"}<br />
+}<br /> **Preprint**: Hellmann, S., Zehetleitner, M., & Rausch, M.
+(2024). dynConfiR: The R package for sequential sampling models of
+decision confidence. PsyArXiv. doi:10.31234/osf.io/e354s \|
+[pre-print](https://doi.org/10.31234/osf.io/e354s){target="_blank"}<br />
