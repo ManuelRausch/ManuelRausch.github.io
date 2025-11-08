@@ -4,13 +4,14 @@ title: Publications
 
 ## Pre-prints
 
-Fung, H., Shekhar, M., Xue, K., Rausch, M., & Rahnev, D. (2025). Similarities and differences in the effects of different stimulus manipulations on accuracy and confidence. PsyArXiv. doi:10.31234/osf.io/b7kru_v1 \| [pre-print](https://osf.io/preprints/psyarxiv/b7kru_v1)
 
 Short, C. A., Breznau, N., Bruntsch, M., Burkhardt, M., Busch, N., Cesnaite, E., Frank, M., Gießing, C., Krähmer, D., Kristanto, D., Lonsdorf, T., Neuendorf, C., Nguyen, H. H. V., Rausch, M., Schmalz, X., Schneck, A., Tabakci, C., & Hildebrandt, A. (2025). Multi-curious: A Multi-Disciplinary Guide to Multiverse Analysis. MetaArXiv. doi:10.31222/osf.io/4yzeh_v1 \| [pre-print](https://doi.org/10.31222/osf.io/4yzeh_v1)
 
 Hellmann, S., Zehetleitner, M., & Rausch, M. (2024). dynConfiR: The R package for sequential sampling models of decision confidence. PsyArXiv. doi:10.31234/osf.io/e354s \| [pre-print](https://doi.org/10.31234/osf.io/e354s){target="_blank"} \| [development version of the package](https://github.com/SeHellmann/dynConfiR){target="_blank"} \| [released version of the package](https://cran.r-project.org/web/packages/dynConfiR/index.html){target="_blank"}
 
 ## Publications in peer-reviewed journals
+
+Fung, H., Shekhar, M., Xue, K., Rausch, M., & Rahnev, D. (2025). Similarities and differences in the effects of different stimulus manipulations on accuracy and confidence. **Consciousness and Cognition**, 136, 103942.  doi:10.1016/j.concog.2025.103942  \| [full text from publisher](http://dx.doi.org/10.1016/j.concog.2025.103942)
 
 Rausch, M., Meyen, S. & Hellmann, S. (2025). StatConfR: An R Package for Static Models of Decision Confidence and Metacognition. **Journal of Open Source Software**, 10(106), 6966. doi:10.21105/joss.06966 \| [full text](Rausch%20(2025)%20StatConfR.pdf){target="_blank"} \| [development version of the package](https://github.com/ManuelRausch/StatConfR){target="_blank"} \| [released version of the package](https://cran.r-project.org/web/packages/statConfR/index.html){target="_blank"}
 

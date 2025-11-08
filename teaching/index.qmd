@@ -11,6 +11,7 @@ I hold the Certificate for Teaching in Higher Education of the Bavarian Universi
 | Course title | Course level | Course type | language |
 |---------|:-----|:------|:------|
 | Introduction into Bayesian Modelling | M. Sc. |  seminar | German |
+| Advanced Quantitatie Methods | M. Sc. | Lecture | German  |
 
 ### Catholic University of Eichstädt-Ingolstadt
 
