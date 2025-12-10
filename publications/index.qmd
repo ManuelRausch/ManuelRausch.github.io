@@ -3,7 +3,12 @@ title: Publications
 ---
 
 ## Pre-prints
-
+Cesnaite, E., Vitale, A., Pascarella, A., Vinding, M. C., Algermissen, J.,
+Fischer, N. L., Puoliväli, T., Gianelli, C., Marshall, C. R., Trübutschek, D., 
+Yang, Y.-F., Navid, M. S., Senoussi, M., Yeaton, J. D., Abbasi, O. , 
+Adamovich, T., Adel, L., Agarwal, N., López, B. A., ... Rausch, M., ... Busch, N. (2025).
+The EEGManyPipelines Dataset: Metascientific Data on 168 Independent
+Analyses of a Single EEG Dataset. MetaArxiv. doi:10.31222/osf.io/c4xwg_v1 \| [preprint](https://doi.org/10.31222/osf.io/c4xwg_v1)
 
 Short, C. A., Breznau, N., Bruntsch, M., Burkhardt, M., Busch, N., Cesnaite, E., Frank, M., Gießing, C., Krähmer, D., Kristanto, D., Lonsdorf, T., Neuendorf, C., Nguyen, H. H. V., Rausch, M., Schmalz, X., Schneck, A., Tabakci, C., & Hildebrandt, A. (2025). Multi-curious: A Multi-Disciplinary Guide to Multiverse Analysis. MetaArXiv. doi:10.31222/osf.io/4yzeh_v1 \| [pre-print](https://doi.org/10.31222/osf.io/4yzeh_v1)
 

@@ -10,8 +10,10 @@ I hold the Certificate for Teaching in Higher Education of the Bavarian Universi
 
 | Course title | Course level | Course type | language |
 |---------|:-----|:------|:------|
+| Multi-level modelling | M. Sc. | seminar | German
+| Data management with R | M. Sc. | seminar | German
 | Introduction into Bayesian Modelling | M. Sc. |  seminar | German |
-| Advanced Quantitatie Methods | M. Sc. | Lecture | German  |
+| Advanced Quantitative Methods | M. Sc. | Lecture | German  |
 
 ### Catholic University of Eichstädt-Ingolstadt
 
@@ -51,7 +53,7 @@ I hold the Certificate for Teaching in Higher Education of the Bavarian Universi
 ## Supervision
 
 * 2 PhD students
-* 27 Master theses
+* 28 Master theses
 * 10 Bachelor theses
 * 7 thesis for the state examination for beginning teachers 
 
