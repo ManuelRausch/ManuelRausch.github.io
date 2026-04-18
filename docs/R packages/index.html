@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -31,14 +31,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="../">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-85433696d67123acc80795fcd31e00ab.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-6f49d4ea6558e1c18bae77efd5cde04d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="../site_libs/quarto-contrib/iconify-1.0.7/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -77,6 +78,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">PD Dr.&nbsp;Manuel Rausch</span>
     </a>
@@ -166,6 +169,15 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><img src="R_logo.svg.png" class="img-fluid" style="width:25.0%"></p>
+<!-- 
+## BayesDiffIRT: Bayesian Diffusion Item Response Theory Models for Responses and Response Times
+
+Diffusion Item Response Theory Models are latent variable models that explicitly take the dynamics of the decision process into account. The BayesDiffIRT provides functions to sample from the posterior distribution of the item parameters, latent variable of interest, as well as decision parameters. 
+**Authors**: Manuel Rausch, Rainer W. Alexandrowicz
+**Maintainer**: Manuel Rausch<br /> **Development version**: https://github.com/ManuelRausch/bayesDynIRT
+**Bug Reports**: <https://github.com/SeHellmann/dynConfiR/issues>
+}<br />
+-->
 <section id="statconfr-models-of-decision-confidence-and-metacognition" class="level2">
 <h2 class="anchored" data-anchor-id="statconfr-models-of-decision-confidence-and-metacognition">statConfR: Models of Decision Confidence and Metacognition</h2>
 <p>The statConfR R package provides fitting functions and other tools for decision confidence and metacognition researchers, including meta-d′/d′ (<a href="https://www.sciencedirect.com/science/article/abs/pii/S1053810011002303">Maniscalco and Lau, 2012</a>), often considered to be the gold standard to measure metacognitive efficiency, and meta-information theoretic measures of metacognition. Also allows to fit and compare ten different static models of decision making and confidence to test the model underlying meta-d′/d′ and many applications of signal detection theory <a href="../publications/Rausch (2023) Accepted author manuscript.pdf" target="_blank">(see Rausch et al., 2023)</a>.<br> <strong>Authors</strong>: Manuel Rausch, Sascha Meyen, <a href="https://www.msl.mgt.tum.de/brm/team/sebastian-hellmann/">Sebastian Hellmann</a><br> <strong>Maintainer</strong>: Manuel Rausch<br> <strong>Development version</strong>: <a href="https://github.com/ManuelRausch/StatConfR" class="uri">https://github.com/ManuelRausch/StatConfR</a><br> <strong>Release version</strong>: <a href="https://cran.r-project.org/web/packages/statConfR/index.html" class="uri">https://cran.r-project.org/web/packages/statConfR/index.html</a><br><strong>Bug Reports</strong>: <a href="https://github.com/ManuelRausch/StatConfR/issues" class="uri">https://github.com/ManuelRausch/StatConfR/issues</a><br> <strong>Journal paper</strong>: Rausch, M., Meyen, S. &amp; Hellmann, S. (2025). StatConfR: An R Package for Static Models of Decision Confidence and Metacognition. <strong>Journal of Open Source Software</strong>, 10(106), 6966. doi:10.21105/joss.06966 | <a href="../publicationsRausch (2025) StatConfR.pdf" target="_blank">full text</a><br></p>
@@ -229,13 +241,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

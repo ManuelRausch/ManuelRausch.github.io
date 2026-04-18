@@ -7,6 +7,17 @@ editor:
 
 ![](R_logo.svg.png){width="25%"}
 
+<!-- 
+## BayesDiffIRT: Bayesian Diffusion Item Response Theory Models for Responses and Response Times
+
+Diffusion Item Response Theory Models are latent variable models that explicitly take the dynamics of the decision process into account. The BayesDiffIRT provides functions to sample from the posterior distribution of the item parameters, latent variable of interest, as well as decision parameters. 
+**Authors**: Manuel Rausch, Rainer W. Alexandrowicz
+**Maintainer**: Manuel Rausch<br /> **Development version**: https://github.com/ManuelRausch/bayesDynIRT
+**Bug Reports**: <https://github.com/SeHellmann/dynConfiR/issues>
+}<br />
+--> 
+
+
 ## statConfR: Models of Decision Confidence and Metacognition
 
 The statConfR R package provides fitting functions and other tools for
