@@ -33,6 +33,10 @@ Jian-Qiao Zhu14, Eric Schulz. (2026).Post-training makes large language models l
 
 Rausch, M. & Konsorten. (2026). Are there electrophysiological correlates of conscious access at the time of the N2? An #EEGManyLabs replication study.
 
+
+Short, C. A., Breznau, N., Bruntsch, M., Burkhardt, M., Busch, N., Cesnaite, E., Frank, M., Gießing, C., Krähmer, D., Kristanto, D., Lonsdorf, T., Neuendorf, C., Nguyen, H. H. V., Rausch, M., Schmalz, X., Schneck, A., Tabakci, C., & Hildebrandt, A. (2026). Multi-curious: A Multi-Disciplinary Guide to Multiverse Analysis. **Advances in Methodes and Practices in Psychological Science**. doi:10.1177/25152459261434881\| [full text from publisher](https://doi.org/10.1177/25152459261434881)
+
+
 --> 
 
 Cesnaite, E., Vitale, A., Pascarella, A., Vinding, M. C., Algermissen, J., Fischer, N. L., Puoliväli, T., Gianelli, C., Marshall, C. R., Trübutschek, D., Yang, Y.-F., Navid, M. S., Senoussi, M., Yeaton, J. D., Abbasi, O. , 
@@ -40,12 +44,13 @@ Adamovich, T., Adel, L., Agarwal, N., López, B. A., ... Rausch, M., ... Busch, 
 The EEGManyPipelines Dataset: Metascientific Data on 168 Independent
 Analyses of a Single EEG Dataset. MetaArxiv. doi:10.31222/osf.io/c4xwg_v1 \| [preprint](https://doi.org/10.31222/osf.io/c4xwg_v1)
 
+Short, C. A., Breznau, N., Bruntsch, M., Burkhardt, M., Busch, N., Cesnaite, E., Frank, M., Gießing, C., Krähmer, D., Kristanto, D., Lonsdorf, T., Neuendorf, C., Nguyen, H. H. V., Rausch, M., Schmalz, X., Schneck, A., Tabakci, C., & Hildebrandt, A. (2025). Multi-curious: A Multi-Disciplinary Guide to Multiverse Analysis. MetaArxiv. doi: 10.31222/osf.io/4yzeh_v2 \| [preprint](https://doi.org/10.31222/osf.io/4yzeh_v2 )
+
 
 ## Publications in peer-reviewed journals
 
-Hellmann, S., Zehetleitner, M., & Rausch, M. (in press). dynConfiR: The R package for sequential sampling models of decision confidence. **Behavior Research Methods**. \| [development version of the package](https://github.com/SeHellmann/dynConfiR){target="_blank"} \| [released version of the package](https://cran.r-project.org/web/packages/dynConfiR/index.html){target="_blank"}
-
-Short, C. A., Breznau, N., Bruntsch, M., Burkhardt, M., Busch, N., Cesnaite, E., Frank, M., Gießing, C., Krähmer, D., Kristanto, D., Lonsdorf, T., Neuendorf, C., Nguyen, H. H. V., Rausch, M., Schmalz, X., Schneck, A., Tabakci, C., & Hildebrandt, A. (2026). Multi-curious: A Multi-Disciplinary Guide to Multiverse Analysis. **Advances in Methodes and Practices in Psychological Science**. doi:10.1177/25152459261434881\| [full text from publisher](https://doi.org/10.1177/25152459261434881)
+Hellmann, S., Zehetleitner, M., & Rausch, M. (2026). dynConfiR: The R package for sequential sampling models of decision confidence. **Behavior Research Methods**. 58, 159. doi: 10.3758/s13428-026-03013-0 \| [full text from publisher](https://doi.org/10.3758/s13428-026-03013-0){target="_blank"} \|
+[development version of the package](https://github.com/SeHellmann/dynConfiR){target="_blank"} \| [released version of the package](https://cran.r-project.org/web/packages/dynConfiR/index.html){target="_blank"}
 
 Fung, H., Shekhar, M., Xue, K., Rausch, M., & Rahnev, D. (2025). Similarities and differences in the effects of different stimulus manipulations on accuracy and confidence. **Consciousness and Cognition**, 136, 103942.  doi:10.1016/j.concog.2025.103942  \| [full text from publisher](http://dx.doi.org/10.1016/j.concog.2025.103942)
 
