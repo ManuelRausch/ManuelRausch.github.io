@@ -39,6 +39,10 @@ Short, C. A., Breznau, N., Bruntsch, M., Burkhardt, M., Busch, N., Cesnaite, E.,
 
 --> 
 
+Binz, M., Akata, E., Almaatouq A., Alsobay M., Ariasov O., 
+Brändle, F., Broska, D., Burton, J. W., Busch, N., Callaway, F., 
+Cheung, V., Christian, B., Coda-Forno, J., Demircan, C., Vittoria, V., Eckstein, M. K., Eltetö, N., Franke, M., ... Rausch, M., ... Schulz, E.  (2026).Post-training makes large language models less human-like. arXiv. doi:10.48550/arXiv.2605.07632 \| [preprint](https://arxiv.org/abs/2605.07632)
+
 Cesnaite, E., Vitale, A., Pascarella, A., Vinding, M. C., Algermissen, J., Fischer, N. L., Puoliväli, T., Gianelli, C., Marshall, C. R., Trübutschek, D., Yang, Y.-F., Navid, M. S., Senoussi, M., Yeaton, J. D., Abbasi, O. , 
 Adamovich, T., Adel, L., Agarwal, N., López, B. A., ... Rausch, M., ... Busch, N. (2025).
 The EEGManyPipelines Dataset: Metascientific Data on 168 Independent
