@@ -63,6 +63,6 @@ version**: <https://github.com/SeHellmann/dynConfiR><br /> **Release
 version**:
 <https://cran.r-project.org/web/packages/dynConfiR/index.html><br />
 **Bug Reports**: <https://github.com/SeHellmann/dynConfiR/issues>
-<br /> **Journal paper**:Hellmann, S., Zehetleitner, M., & Rausch, M. (2026). dynConfiR: The R package for sequential sampling models of decision confidence. **Behavior Research Methods**. 58, 159. doi: 10.3758/s13428-026-03013-0 \| [full text from publisher](https://doi.org/10.3758/s13428-026-03013-0){target="_blank"} \|
+<br /> **Journal paper**:Hellmann, S., Zehetleitner, M., & Rausch, M. (2026). dynConfiR: An R package for sequential sampling models of decision confidence. **Behavior Research Methods**. 58, 159. doi: 10.3758/s13428-026-03013-0 \| [full text from publisher](https://doi.org/10.3758/s13428-026-03013-0){target="_blank"} \|
 [development version of the package](https://github.com/SeHellmann/dynConfiR){target="_blank"} \| [released version of the package](https://cran.r-project.org/web/packages/dynConfiR/index.html){target="_blank"}
 
