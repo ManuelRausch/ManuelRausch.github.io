@@ -7,15 +7,14 @@ editor:
 
 ![](R_logo.svg.png){width="25%"}
 
-<!-- 
 ## BayesDiffIRT: Bayesian Diffusion Item Response Theory Models for Responses and Response Times
 
-Diffusion Item Response Theory Models are latent variable models that explicitly take the dynamics of the decision process into account. The BayesDiffIRT provides functions to sample from the posterior distribution of the item parameters, latent variable of interest, as well as decision parameters. 
-**Authors**: Manuel Rausch, Rainer W. Alexandrowicz
-**Maintainer**: Manuel Rausch<br /> **Development version**: https://github.com/ManuelRausch/bayesDynIRT
-**Bug Reports**: <https://github.com/SeHellmann/dynConfiR/issues>
-}<br />
---> 
+Diffusion Item Response Theory Models are latent variable models that explicitly take the dynamics of the decision process into account ([Kang et al.,
+2022](https://www.cambridge.org/core/product/identifier/S0033312300007924/type/journal_article); [van der Maas et al., 2011](https://doi.apa.org/doi/10.1037/a0022749); [Tuerlinckx & Boeck, 2005](https://www.cambridge.org/core/product/identifier/S0033312300023619/type/journal_article)). The BayesDiffIRT package provides functions functions to sample posterior distributions and posterior predictive distributions of item and subject parameters of diffusion item response theory models for responses and reaction times. BayesDiffIRT also provides functions to visualize posterior distributions of diffusion item response theory model parameters and construct credible intervals. Under the hood, the package relies on NUTS sampling with STAN. <br />
+**Authors**: Manuel Rausch, [Rainer W. Alexandrowicz](https://www.aau.at/en/team/alexandrowicz-rainer/)<br />
+**Maintainer**: Manuel Rausch <br /> **Development version**: <https://github.com/ManuelRausch/bayesDiffIRT> <br />
+**Bug Reports**: <https://github.com/ManuelRausch/BayesDiffIRT/issues>
+<br />
 
 
 ## statConfR: Models of Decision Confidence and Metacognition
@@ -63,6 +62,4 @@ version**: <https://github.com/SeHellmann/dynConfiR><br /> **Release
 version**:
 <https://cran.r-project.org/web/packages/dynConfiR/index.html><br />
 **Bug Reports**: <https://github.com/SeHellmann/dynConfiR/issues>
-<br /> **Journal paper**:Hellmann, S., Zehetleitner, M., & Rausch, M. (2026). dynConfiR: An R package for sequential sampling models of decision confidence. **Behavior Research Methods**. 58, 159. doi: 10.3758/s13428-026-03013-0 \| [full text from publisher](https://doi.org/10.3758/s13428-026-03013-0){target="_blank"} \|
-[development version of the package](https://github.com/SeHellmann/dynConfiR){target="_blank"} \| [released version of the package](https://cran.r-project.org/web/packages/dynConfiR/index.html){target="_blank"}
-
+<br /> **Journal paper**:Hellmann, S., Zehetleitner, M., & Rausch, M. (2026). dynConfiR: An R package for sequential sampling models of decision confidence. **Behavior Research Methods**. 58, 159. doi: 10.3758/s13428-026-03013-0 \| [full text from publisher](https://doi.org/10.3758/s13428-026-03013-0){target="_blank"} 
