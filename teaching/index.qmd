@@ -14,6 +14,7 @@ I hold the Certificate for Teaching in Higher Education of the Bavarian Universi
 | Data management with R | M. Sc. | seminar | German
 | Introduction into Bayesian Modelling | M. Sc. |  seminar | German |
 | Advanced Quantitative Methods | M. Sc. | Lecture | German  |
+| Introduction into Psychological Research Methods: Basics and Designs | B. Sc. | Lecture | German
 
 ### Catholic University of Eichstädt-Ingolstadt
 
@@ -49,6 +50,12 @@ I hold the Certificate for Teaching in Higher Education of the Bavarian Universi
 | Interdisciplinary communication of research findings | M. Sc. | seminar | German |
 | Cognitive modelling in R | M. Sc. | seminar | English |
 | Reaction time and psychophysical methods | M. Sc. | tutorial | English |
+
+## Workshops and Professional Training
+
+| Host institution | Course title | Target audience | language |
+|---------|:-----|:------|:------|
+| University Hospital Heidelberg | Introduction into linear mixed model analysis with R | PhD students | English
 
 ## Supervision
 
